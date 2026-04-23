@@ -1,6 +1,0 @@
-github
-madhura
-second line in feature branch.
-madhura
-seconf commit in feature.
-third line in feature branch hello from master
